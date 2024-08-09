@@ -25,7 +25,7 @@ Problem 3:
     this task is about identify the most suitable battery for a system cosist of **four 12V motors,each drawing 4A continuously,
     and a camera drawing 0.5A at 12V** and the system must operate for at least half an hour on a single charge.
 
-##Task_3:
+## Task_3:
 
 this task is also divded into problems but at the end it aim to form a complete robot that can do:  
 1-Detecting Mines  
@@ -33,7 +33,8 @@ this task is also divded into problems but at the end it aim to form a complete 
 3-Navigating the City  
 4-Avoiding Obstacles  
 5-Localization  
-<mark>And this can be done by using some defined sensors and motors and MCU like:</mark> 
+<mark>And this can be done by using some defined sensors and motors and MCU like:</mark>  
+
 +Arduino Uno
 +photoresistor
 +Buzzer
