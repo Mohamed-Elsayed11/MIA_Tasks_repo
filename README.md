@@ -43,4 +43,17 @@ this task is also divded into problems but at the end it aim to form a complete 
 + DC Motors
 + Ultrasonic Sensor
 
-    
+## Task_4:
+
+**problem 1:**  
+it is about deal with weather dataset and perform some opeations on it like:  
++ Clean and preprocess the data
+      + handle missing values.
+      + remove duplicates.
+      + handle incorrect data.
+
+
++  Plot temperature over time.
++  Create a histogram of temperature distribution.
++  Plot a scatter plot of temperature vs. humidity.
++  Generate a correlation heatmap of the dataset and explain the output in a markdown cell.
