@@ -48,9 +48,9 @@ this task is also divded into problems but at the end it aim to form a complete 
 **problem 1:**  
 it is about deal with weather dataset and perform some opeations on it like:  
 + Clean and preprocess the data
-      + handle missing values.
-      + remove duplicates.
-      + handle incorrect data.
+    + handle missing values.
+    + remove duplicates.
+    + handle incorrect data.
 
 
 +  Plot temperature over time.
