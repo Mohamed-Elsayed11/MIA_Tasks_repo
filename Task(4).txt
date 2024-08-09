@@ -1,0 +1,13 @@
+Task_4.1:
+https://colab.research.google.com/drive/1Yv3crNBnZBJlGuCPlvlOD7A81wf4QUZd?usp=sharing
+
+Weather Dataset:
+https://drive.google.com/file/d/1Rr205lCQRnqRQRBDHsvzILxcQZnsFQ9x/view
+
+Task_4.3:
+https://colab.research.google.com/drive/1UX4C0H5N-8xjhKOxmmnssui0FvxeJa_E?usp=sharing
+
+WeatherHistory Dataset:
+https://drive.google.com/file/d/1faupcREQNNpea0SrMohTmyABQKdUJJUn/view
+
+
