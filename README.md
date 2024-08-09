@@ -86,7 +86,7 @@ should communicates to each other across the master mcu without any direct conne
 
 **problem:2**
 
-it required to convert anlog signal to a digital one at differnet Sampling times and encoder bits.
+it required to convert analog signal to a digital one at differnet Sampling times and encoder bits.
 
 ## Task_6:
 
