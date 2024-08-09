@@ -14,14 +14,17 @@ it is about c++ problem solving contests which is given in hackerrank, and it wa
 
 Task_2 is divided into problems:  
 
-Problem 1:  
+**Problem 1:**  
+
     1- it was about desing a full bridge rectifer that convert 220V(AC) to 5v(DC) and connect the 5V to a led and turn it off/on by a switching circuit.  
     2- it was about calculate the number of leds could be put in parallel by given the **total power and the maximum led cuurrend**.  
     
-Problem 2:  
+**Problem 2:**  
+
     Design a simple H bridge circuit to control the direction of the DC motor  
 
-Problem 3:   
+**Problem 3:**   
+
     this task is about identify the most suitable battery for a system cosist of **four 12V motors,each drawing 4A continuously,
     and a camera drawing 0.5A at 12V** and the system must operate for at least half an hour on a single charge.
 
@@ -45,7 +48,8 @@ this task is also divded into problems but at the end it aim to form a complete 
 
 ## Task_4:
 
-**problem 1:**  
+**problem 1:**
+
 it is about deal with weather dataset and perform some opeations on it like:  
 + Clean and preprocess the data
     + handle missing values.
@@ -57,3 +61,40 @@ it is about deal with weather dataset and perform some opeations on it like:
 +  Create a histogram of temperature distribution.
 +  Plot a scatter plot of temperature vs. humidity.
 +  Generate a correlation heatmap of the dataset and explain the output in a markdown cell.
+
+**problem 2:**
+
+Creating a python chess game and creating its GUI by using **pygame**.
+
+<mark>GUI Image</mark>
+
+![GUI image](https://github.com/user-attachments/assets/496c075b-4ede-426a-ae3d-92fb23794122)
+
+
+**problem 3:**
+
+it is about creating a Machine Learning Model to make weather predication  by dealing with  **WeatherHistory Dataset**
+
+## Task_5:
+
+**problem:1**
+
+it was apply a communication protocols between 3 MCUs one act as a master and one act as uart slave and last one act as i2c slave  and the two slaves
+should communicates to each other across the master mcu without any direct connection between the two salves.
+
+![system image](https://github.com/user-attachments/assets/4c65adbc-ccf6-4e76-b234-b28a6068806b)
+
+**problem:2**
+
+it required to convert anlog signal to a digital one at differnet Sampling times and encoder bits.
+
+## Task_6:
+
+it is about design a H bridge circuit to control the speed and the direction ot DC Motor by using **Altuiom software**
+
+
+
+
+
+
+
