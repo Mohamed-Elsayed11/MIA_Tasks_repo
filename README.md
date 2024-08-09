@@ -19,4 +19,26 @@ Problem 1:
     2- it was about calculate the number of leds could be put in parallel by given the **total power and the maximum led cuurrend**.  
     
 Problem 2:  
-    *Design a simple H bridge circuit to control the direction of the DC motor
+    Design a simple H bridge circuit to control the direction of the DC motor  
+
+Problem 3:   
+    this task is about identify the most suitable battery for a system cosist of **four 12V motors,each drawing 4A continuously,
+    and a camera drawing 0.5A at 12V** and the system must operate for at least half an hour on a single charge.
+
+##Task_3:
+
+this task is also divded into problems but at the end it aim to form a complete robot that can do:  
+1-Detecting Mines  
+2-Defusing Mines  
+3-Navigating the City  
+4-Avoiding Obstacles  
+5-Localization  
+<mark>And this can be done by using some defined sensors and motors and MCU like:</mark> 
++Arduino Uno
++photoresistor
++Buzzer
++Servo motor
++DC Motors
++Ultrasonic Sensor
+
+    
