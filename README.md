@@ -33,13 +33,14 @@ this task is also divded into problems but at the end it aim to form a complete 
 3-Navigating the City  
 4-Avoiding Obstacles  
 5-Localization  
+
 <mark>And this can be done by using some defined sensors and motors and MCU like:</mark>  
 
-+Arduino Uno
-+photoresistor
-+Buzzer
-+Servo motor
-+DC Motors
-+Ultrasonic Sensor
++ Arduino Uno
++ photoresistor
++ Buzzer
++ Servo motor
++ DC Motors
++ Ultrasonic Sensor
 
     
