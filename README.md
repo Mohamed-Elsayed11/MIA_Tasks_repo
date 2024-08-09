@@ -14,6 +14,9 @@ it is about c++ problem solving contests which is given in hackerrank, and it wa
 
 Task_2 is divided into problems:  
 
-*Problem 1:  
+Problem 1:  
     1- it was about desing a full bridge rectifer that convert 220V(AC) to 5v(DC) and connect the 5V to a led and turn it off/on by a switching circuit.  
-    2- it was about calculate the number of leds could be put in parallel by given the **total power and the maximum led cuurrend**.
+    2- it was about calculate the number of leds could be put in parallel by given the **total power and the maximum led cuurrend**.  
+    
+Problem 2:  
+    *Design a simple H bridge circuit to control the direction of the DC motor
