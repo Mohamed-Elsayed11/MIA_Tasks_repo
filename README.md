@@ -92,7 +92,9 @@ it required to convert analog signal to a digital one at differnet Sampling time
 
 it is about design a H bridge circuit to control the speed and the direction ot DC Motor by using **Altuiom software**
 
+## Task_7:
 
+It is about practice basic Linux commands
 
 
 
